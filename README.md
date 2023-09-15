@@ -3,7 +3,7 @@ An 3 layer multilayer perceptron network built from scratch using PyTorch. Netwo
 Since a feed forward network is not an optimal solution for this problem a CNN was also created resulting in accuracies for the cat and dog class as 79% and 69%, respectively.
 
 ## Sample Data
-
+![](https://github.com/thomasdurkin/Custom-Feed-Forward-Network/blob/master/Sample%20of%20Data.PNG)
 
 ## Key Formulas
 $x$ is vectorized image</br>

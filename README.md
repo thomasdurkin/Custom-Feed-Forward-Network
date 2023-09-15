@@ -11,7 +11,8 @@ $W$ is the weight vector</br>
 $b$ is the bias
 - Output for each layer
   - $z = W^Tx + b$
-</br>
+
+
 $\theta$ is the weight parameter
 $\alpha$ is the learning rate
 $\nabla_\theta J(\theta)$ is the gradient

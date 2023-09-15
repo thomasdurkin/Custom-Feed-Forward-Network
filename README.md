@@ -12,8 +12,8 @@ $b$ is the bias
   - $z = W^Tx + b$
 
 
-$\theta$ is the weight parameter
-$\alpha$ is the learning rate
+$\theta$ is the weight parameter</br>
+$\alpha$ is the learning rate</br>
 $\nabla_\theta J(\theta)$ is the gradient
 - Backpropagation 
   -   $\theta = \theta -  \alpha \times \nabla_\theta J(\theta)$
